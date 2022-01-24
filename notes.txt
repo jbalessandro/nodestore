@@ -1,0 +1,46 @@
+mpn init -y
+
+npm install http express debug --save (installed http, express and debug) --save
+	in the package.json added new dependencies
+	http -> listener
+	express -> mvc
+	
+node .\server.js
+
+npm install -g nodemon
+npm install --save-dev nodemon
+npm config get prefix
+set PATH=%PATH%;C:\Users\"Aqui seu usuario"\AppData\Roaming\npm;
+nodemon .\bin\server.js
+
+npm install body-parser --save
+mlab.com (mongo online)
+
+http://www.macoratti.net/17/04/mongo_cloud1.htm
+mongodb+srv://zephyrus:HWn84fXpABhV7xWS@cluster0.bbxj5.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+Studio 3T
+
+npm install mongoose --save
+https://pt.stackoverflow.com/questions/348455/missingschemaerror-schema-hasnt-been-registered-for-model-product
+
+npm install mid --save
+npm install md5 --save
+
+sendgrid.com -- 100K by month
+npm install sendgrid --save
+// there is an vs code extision called npm -> install
+
+todo: study axios...
+
+tips:
+// images: ngImgCrop
+// sendgrid.com -- 100K by month
+// storageexplorer.com - Azure (the same that I use for DFO)
+
+npm install azure-storage --save
+// create Bob Storage on Azure,
+// create Container Name: product-images, Access type: Blob
+// https://www.base64-image.de upload url and get it from base64
+
+// authentication
+npm install jsonwebtoken --save
