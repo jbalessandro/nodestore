@@ -36,6 +36,7 @@ tips:
 // images: ngImgCrop
 // sendgrid.com -- 100K by month
 // storageexplorer.com - Azure (the same that I use for DFO)
+// Bitbucket - like github, but free
 
 npm install azure-storage --save
 // create Bob Storage on Azure,
